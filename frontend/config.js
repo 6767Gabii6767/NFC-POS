@@ -2,5 +2,5 @@
 // and point apiBaseUrl to your separately hosted backend.
 window.NFC_POS_CONFIG = {
   mode: "demo",
-  apiBaseUrl: "http://localhost:4242"
+  apiBaseUrl: ""
 };

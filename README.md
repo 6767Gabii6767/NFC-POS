@@ -2,6 +2,8 @@
 
 NFC POS este o interfață demonstrativă, mobile-first, pentru introducerea unei sume în RON. Modul implicit este local și nu procesează plăți. Backendul separat este pregătit pentru Stripe Checkout în modul **Test**.
 
+Demo public: <https://6767gabii6767.github.io/NFC-POS/> · Repository: <https://github.com/6767Gabii6767/NFC-POS>
+
 ## Structura proiectului
 
 ```text
